@@ -61,6 +61,11 @@ Git, GitHub, GitLab, Visual Studio Code, MS Office
 
 ---
 
+## LeetCode
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=shivambprajapati1998)
+
+---
+
 ### 🤝 Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/shivam-prajapati20/  
