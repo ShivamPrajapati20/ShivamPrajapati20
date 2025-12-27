@@ -62,7 +62,7 @@ Git, GitHub, GitLab, Visual Studio Code, MS Office
 ---
 
 ## LeetCode
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=shivambprajapati1998)
+![LeetCode Stats](https://leetcard.jacoblin.cool/shivambprajapati1998?v=1)
 
 ---
 
