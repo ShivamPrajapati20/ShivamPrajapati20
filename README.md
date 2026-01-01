@@ -1,5 +1,7 @@
 ## Hi, I'm Shivam Prajapati 👋
 
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-orange)
+
 💻 Full Stack Software Developer  
 🎓 M.S. in Computer Science, Cleveland State University  
 
@@ -19,7 +21,7 @@ Spring, Spring Boot, Microservices, Flask, React.js, Node.js, Next.js, jQuery
 MySQL, MongoDB, PostgreSQL, MS SQL Server  
 
 **☁️ Cloud & DevOps:**  
-AWS, Microsoft Azure (Blob Storage), Docker, GitHub Actions, CI/CD  
+Microsoft Azure (Blob Storage), Docker, GitHub Actions, CI/CD, AWS (Cloud Practitioner Essentials), EC2, S3, IAM  
 
 **🛠️ Tools & Platforms:**  
 Git, GitHub, GitLab, Visual Studio Code, MS Office  
@@ -51,6 +53,15 @@ Git, GitHub, GitLab, Visual Studio Code, MS Office
 - Built responsive UI components using **HTML, CSS, Bootstrap, and AJAX**  
 - Improved scalability by standardizing frontend–backend API communication  
 
+---
+
+## ☁️ Cloud & Certifications
+
+- **AWS Cloud Practitioner Essentials**  
+  Amazon Web Services (AWS)  
+  - Foundational knowledge of AWS core services (EC2, S3, IAM)
+  - Understanding of cloud security, pricing models, and cost optimization
+  - Familiar with AWS Shared Responsibility Model and basic cloud architecture
 ---
 
 ### 📌 Projects
