@@ -7,6 +7,8 @@
 
 📍 USA | Open to relocate
 
+🌐 [Portfolio](https://hire-shivam.preview.emergentagent.com) | 💼 [LinkedIn](https://www.linkedin.com/in/shivam-prajapati20) | 📧 [shivambprajapati1998@gmail.com](mailto:shivambprajapati1998@gmail.com)
+
 ---
 
 ### 🧠 Skills
@@ -75,9 +77,3 @@ Git, GitHub, GitLab, Visual Studio Code, MS Office
 ## LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shivambprajapati1998?v=1)
 
----
-
-### 🤝 Connect
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/shivam-prajapati20/  
-- 📧 Email: shivambprajapati1998@gmail.com
