@@ -1,6 +1,7 @@
 ## Hi, I'm Shivam Prajapati 👋
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-orange)
+![AWS Cloud Quest](https://img.shields.io/badge/AWS-Cloud%20Quest%20Certified-blue)
 
 💻 Full Stack Software Developer  
 🎓 M.S. in Computer Science, Cleveland State University  
@@ -64,6 +65,12 @@ Git, GitHub, GitLab, Visual Studio Code, MS Office
   - Foundational knowledge of AWS core services (EC2, S3, IAM)
   - Understanding of cloud security, pricing models, and cost optimization
   - Familiar with AWS Shared Responsibility Model and basic cloud architecture
+- **AWS Cloud Quest: Cloud Practitioner**  
+  Amazon Web Services (AWS)  
+  - Completed hands-on, role-based labs using the AWS Console
+  - Built and managed cloud resources including EC2 instances, S3 buckets, IAM roles, and policies
+  - Practiced real-world scenarios such as access control, cost awareness, and basic troubleshooting
+  - Strengthened understanding of cloud fundamentals through interactive, game-based challenges
 ---
 
 ### 📌 Projects
