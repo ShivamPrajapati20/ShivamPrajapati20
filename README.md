@@ -2,8 +2,9 @@
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-orange)
 ![AWS Cloud Quest](https://img.shields.io/badge/AWS-Cloud%20Quest%20Certified-blue)
+![Docker](https://img.shields.io/badge/Docker-Foundations%20Professional-blue?logo=docker)
 
-💻 Full Stack Software Developer  
+💻 Software Engineer | Backend & Cloud | Docker • AWS • CI/CD  
 🎓 M.S. in Computer Science, Cleveland State University  
 
 📍 USA | Open to relocate
@@ -24,7 +25,7 @@ Spring, Spring Boot, Microservices, Flask, React.js, Node.js, Next.js, jQuery
 MySQL, MongoDB, PostgreSQL, MS SQL Server  
 
 **☁️ Cloud & DevOps:**  
-Microsoft Azure (Blob Storage), Docker, GitHub Actions, CI/CD, AWS (Cloud Practitioner Essentials), EC2, S3, IAM  
+Docker (Containerization, Dockerfile), GitHub Actions, CI/CD Pipelines, AWS (EC2, S3, IAM), Microsoft Azure (Blob Storage)  
 
 **🛠️ Tools & Platforms:**  
 Git, GitHub, GitLab, Visual Studio Code, MS Office  
@@ -60,6 +61,11 @@ Git, GitHub, GitLab, Visual Studio Code, MS Office
 
 ## ☁️ Cloud & Certifications
 
+- **Docker Foundations Professional Certificate**  
+  Docker  
+  - Built and containerized applications using Docker and Dockerfile
+  - Learned image creation, container lifecycle, and container-based workflows
+  - Applied Docker in CI/CD pipelines for consistent build and deployment environments
 - **AWS Cloud Practitioner Essentials**  
   Amazon Web Services (AWS)  
   - Foundational knowledge of AWS core services (EC2, S3, IAM)
