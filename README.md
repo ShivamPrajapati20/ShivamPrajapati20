@@ -9,7 +9,7 @@
 
 📍 USA | Open to relocate
 
-🌐 [Portfolio](https://hire-shivam.preview.emergentagent.com) | 💼 [LinkedIn](https://www.linkedin.com/in/shivam-prajapati20) | 📧 [shivambprajapati1998@gmail.com](mailto:shivambprajapati1998@gmail.com)
+🌐 [Portfolio](https://shivam-dev-works.preview.emergentagent.com/) | 💼 [LinkedIn](https://www.linkedin.com/in/shivam-prajapati20) | 📧 [shivambprajapati1998@gmail.com](mailto:shivambprajapati1998@gmail.com)
 
 ---
 
