@@ -28,7 +28,7 @@ MySQL, MongoDB, PostgreSQL, MS SQL Server
 Docker (Containerization, Dockerfile), GitHub Actions, CI/CD Pipelines, AWS (EC2, S3, IAM), Microsoft Azure (Blob Storage)  
 
 **🛠️ Tools & Platforms:**  
-Git, GitHub, GitLab, Visual Studio Code, MS Office  
+Git, GitHub, GitLab, Visual Studio Code, MS Office
 
 ---
 
@@ -36,26 +36,24 @@ Git, GitHub, GitLab, Visual Studio Code, MS Office
 
 **Software Developer Intern – Find Me LLC (USA)**  
 *Jun 2025 – Aug 2025 | Remote*  
-- Refactored backend API logic and optimized request/response handling, resulting in a **62% reduction in latency** and a **38% improvement in mobile application responsiveness**  
-- Designed and implemented **RESTful APIs** using **Python and Flask**, modeling scalable data schemas in **MongoDB** with TTL indexes for time-sensitive data  
-- Implemented **JWT-based authentication** and **role-based access control (RBAC)** to secure application endpoints  
-- Containerized services using **Docker** and automated CI/CD workflows with **GitHub Actions**, improving release stability  
-- Collaborated with frontend teams to enable **real-time data synchronization** and reliable system integration  
+- Built React.js frontend components using JavaScript (ES6+), HTML, and CSS for 500+ internal users, improving UI reliability and real-time interaction. 
+- Designed and deployed REST APIs within a microservices architecture, cutting feature delivery time by 30%. 
+- Secured distributed application modules by implementing JWT authentication and role-based access control (RBAC), enhancing security and reducing unauthorized-access incidents. 
+- Refactored backend logic and optimized database queries with server-side caching, improving application performance by 25%.  
 
 **Software Developer – iSummation Technologies Pvt. Ltd. (India)**  
 *Sep 2019 – Aug 2023*  
-- Developed and maintained enterprise applications supporting **50K+ active users**, contributing to a **Single Sign-On (SSO)** platform  
-- Worked across the **full SDLC** following **Agile** practices  
-- Optimized **SQL queries, stored procedures, and triggers** in **MS SQL Server** to improve performance and reliability  
-- Built scalable backend components within a **3-tier architecture**  
-- Used **Git/GitLab** for version control and release management  
+- Built and maintained full stack web applications serving 50,000+ active users at 99.8% uptime. 
+- Developed frontend features using JavaScript, HTML, and CSS and integrated them with Spring Boot backend services in a multi-tier architecture, improving user interaction speed. 
+- Designed RESTful APIs for authentication and configuration-driven workflows, reducing technical debt by 25%. 
+- Optimized MS SQL Server queries through indexing and query refactoring, reducing response times by 30%. 
+- Delivered new features for each Agile sprint using Jira and Git, driving faster releases and better team results.   
 
 **Software Developer Intern – Silverwing Technologies Pvt. Ltd. (India)**  
 *Dec 2018 – Mar 2019*  
-- Developed backend services for a **Spring Boot-based ad management platform**  
-- Integrated **PayUMoney payment APIs**, reducing manual billing effort by **~40%**  
-- Built responsive UI components using **HTML, CSS, Bootstrap, and AJAX**  
-- Improved scalability by standardizing frontend–backend API communication  
+- Developed Spring Boot REST APIs to automate payment and billing workflows, reducing manual effort by 40%. 
+- Integrated third-party payment APIs with CRUD services supporting real-time transactions at 99.5% uptime. 
+- Built responsive UI components with JavaScript, AJAX, HTML, and CSS for multiple devices, enhancing user experience and consistency across platforms.   
 
 ---
 
