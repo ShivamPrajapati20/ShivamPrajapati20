@@ -9,7 +9,7 @@
 
 📍 USA | Open to relocate
 
-🌐 [Portfolio](https://shivamportfolio-shivamprajapati20s-projects.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/shivam-prajapati20) | 📧 [shivambprajapati1998@gmail.com](mailto:shivambprajapati1998@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/shivam-prajapati20) | 📧 [shivambprajapati1998@gmail.com](mailto:shivambprajapati1998@gmail.com)
 
 ---
 
