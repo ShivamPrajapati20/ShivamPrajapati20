@@ -1,90 +1,86 @@
 ## Hi, I'm Shivam Prajapati 👋
 
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-orange)
-![AWS Cloud Quest](https://img.shields.io/badge/AWS-Cloud%20Quest%20Certified-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-Foundations%20Professional-blue?logo=docker)
+![JPMorgan](https://img.shields.io/badge/JPMorgan%20Chase-SWE%20Simulation-darkblue)
 
-💻 Software Engineer | Backend & Cloud | Docker • AWS • CI/CD  
-🎓 M.S. in Computer Science, Cleveland State University  
+💻 Software Engineer | Full Stack, AI/LLM Integration & Cloud  
+🎓 M.S. in Computer Science — Cleveland State University (GPA: 3.7/4.0)  
+📍 San Antonio, TX | Open to Relocate
 
-📍 USA | Open to relocate
-
-💼 [LinkedIn](https://www.linkedin.com/in/shivam-prajapati20) | 📧 [shivambprajapati1998@gmail.com](mailto:shivambprajapati1998@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/shivam-prajapati20) | 📧 [shivambprajapati15@gmail.com](mailto:shivambprajapati15@gmail.com) | [GitHub](https://github.com/your-username)
 
 ---
 
 ### 🧠 Skills
 
-**💻 Programming Languages:**  
-Java, Python, JavaScript, ColdFusion, HTML, CSS, AJAX  
+**💻 Languages & Frameworks:**  
+Java, Python, JavaScript (ES6+), TypeScript, React.js, Next.js, Spring Boot, Node.js, Express.js, Django, FastAPI, HTML5/CSS3
 
-**🧩 Frameworks & Libraries:**  
-Spring, Spring Boot, Microservices, Flask, React.js, Node.js, Next.js, jQuery  
+**🤖 AI & LLMs:**  
+LLM Integration, Prompt Engineering, OpenAI API, Claude API, Gemini API, RAG Pipelines, LangChain, scikit-learn
 
-**🗄️ Databases:**  
-MySQL, MongoDB, PostgreSQL, MS SQL Server  
+**🏗️ Architecture:**  
+REST, GraphQL, Microservices, Event-Driven Architecture, System Design, Scalability
+
+**🗄️ Databases & Streaming:**  
+MS SQL Server, MySQL, MongoDB, PostgreSQL, Apache Kafka
 
 **☁️ Cloud & DevOps:**  
-Docker (Containerization, Dockerfile), GitHub Actions, CI/CD Pipelines, AWS (EC2, S3, IAM), Microsoft Azure (Blob Storage)  
+AWS (EC2, S3, IAM), Docker, Kubernetes, Jenkins, Terraform, GitHub Actions, CI/CD Pipelines
 
-**🛠️ Tools & Platforms:**  
-Git, GitHub, GitLab, Visual Studio Code, MS Office
+**🛠️ Tools:**  
+Git, Postman, Jira, VS Code
 
 ---
 
 ### 💼 Experience
 
-**Software Developer Intern – Find Me LLC (USA)**  
-*Jun 2025 – Aug 2025 | Remote*  
-- Built React.js frontend components using JavaScript (ES6+), HTML, and CSS for 500+ internal users, improving UI reliability and real-time interaction. 
-- Designed and deployed REST APIs within a microservices architecture, cutting feature delivery time by 30%. 
-- Secured distributed application modules by implementing JWT authentication and role-based access control (RBAC), enhancing security and reducing unauthorized-access incidents. 
-- Refactored backend logic and optimized database queries with server-side caching, improving application performance by 25%.  
+**Software Developer Intern – Find Me LLC (New York, USA)**  
+*Aug 2025 – Nov 2025 | Remote*
+- Redesigned React/Next.js architecture for 500+ users and introduced unit testing, reducing production bug reports.
+- Migrated REST APIs to GraphQL (field-level resolvers, depth limiting), cutting payload size by **40%** and improving page load from ~2.4s to ~1.4s.
+- Integrated ML classification models into backend workflows, reducing manual review volume from ~100 to 70 cases/day.
+- Containerized backend services with Docker and deployed on AWS, reducing environment setup time from ~2 days to **2 hours**.
 
 **Software Developer – iSummation Technologies Pvt. Ltd. (India)**  
-*Sep 2019 – Aug 2023*  
-- Built and maintained full stack web applications serving 50,000+ active users at 99.8% uptime. 
-- Developed frontend features using JavaScript, HTML, and CSS and integrated them with Spring Boot backend services in a multi-tier architecture, improving user interaction speed. 
-- Designed RESTful APIs for authentication and configuration-driven workflows, reducing technical debt by 25%. 
-- Optimized MS SQL Server queries through indexing and query refactoring, reducing response times by 30%. 
-- Delivered new features for each Agile sprint using Jira and Git, driving faster releases and better team results.   
+*Sep 2019 – Jul 2023*
+- Led full-stack platform (React.js, Next.js, Spring Boot) serving **50K+ users** at **99.8% uptime**.
+- Standardized APIs across 10+ microservices, cutting integration time from 5 days to 2 days and reducing production issues from ~12/month to 7/month.
+- Optimized MS SQL Server queries (indexing + N+1 fixes), reducing response latency from **~900ms to 600ms**.
+- Architected extensible backend data-pipeline interfaces enabling AI/ML model onboarding in under 2 weeks with zero refactoring.
+- Mentored 2 junior engineers, reducing their PR defect rate by **40%** in Q1.
 
 **Software Developer Intern – Silverwing Technologies Pvt. Ltd. (India)**  
-*Dec 2018 – Mar 2019*  
-- Developed Spring Boot REST APIs to automate payment and billing workflows, reducing manual effort by 40%. 
-- Integrated third-party payment APIs with CRUD services supporting real-time transactions at 99.5% uptime. 
-- Built responsive UI components with JavaScript, AJAX, HTML, and CSS for multiple devices, enhancing user experience and consistency across platforms.   
+*Dec 2018 – Mar 2019*
+- Replaced synchronous billing with a Kafka + Spring Boot event-driven pipeline sustaining **10,000+ events/min** with zero message loss.
+- Automated payment workflows via Spring Boot REST APIs, cutting manual processing effort by **40%**.
 
 ---
 
-## ☁️ Cloud & Certifications
+### 🚀 Projects
 
-- **Docker Foundations Professional Certificate**  
-  Docker  
-  - Built and containerized applications using Docker and Dockerfile
-  - Learned image creation, container lifecycle, and container-based workflows
-  - Applied Docker in CI/CD pipelines for consistent build and deployment environments
-- **AWS Cloud Practitioner Essentials**  
-  Amazon Web Services (AWS)  
-  - Foundational knowledge of AWS core services (EC2, S3, IAM)
-  - Understanding of cloud security, pricing models, and cost optimization
-  - Familiar with AWS Shared Responsibility Model and basic cloud architecture
-- **AWS Cloud Quest: Cloud Practitioner**  
-  Amazon Web Services (AWS)  
-  - Completed hands-on, role-based labs using the AWS Console
-  - Built and managed cloud resources including EC2 instances, S3 buckets, IAM roles, and policies
-  - Practiced real-world scenarios such as access control, cost awareness, and basic troubleshooting
-  - Strengthened understanding of cloud fundamentals through interactive, game-based challenges
----
+**🔍 AI Resume Analyzer** — *Python, FastAPI, Next.js, Prompt Engineering* (Apr 2026)  
+Built a 3-call RAG pipeline that parses job descriptions, scores resume match (0–100), and rewrites bullet points using JD keywords — reducing tailoring time from ~2 hrs to ~15 seconds.
 
-### 📌 Projects
+**🤖 AI Integration Projects** — *OpenAI API, Claude API, Gemini API* (Mar 2026)  
+Engineered multi-model AI integrations with prompt-chaining workflows and context-aware LLM pipelines. Applied few-shot, chain-of-thought, and system-role prompting for classification and generation tasks.
 
-- Quantum Machine Learning for Stock Prediction  
-- Tweet Sentiment Analysis (100K+ tweets)  
-- Online Banking Portal (Java EE)  
+**🔐 Auth / SSO Service** — *Java, Spring Boot, Spring Security, PostgreSQL* (Jan 2026)  
+Architected production-grade multi-tenant SSO with RBAC, JWT refresh-token rotation, and full audit logging — zero token replay vulnerabilities across all environments.
+
+**📈 AI Stock Market Prediction System** — *Python, SVM, Quantum Kernels, PCA, scikit-learn* (Apr 2025)  
+Delivered SVM + quantum kernel hybrid model with **18% accuracy improvement** over SOTA baselines, validated via k-fold cross-validation on time-series financial data.
 
 ---
 
-## LeetCode
+### ☁️ Certifications
+
+- **JPMorgan Chase Software Engineering Job Simulation** — Forage (Jan 2026)
+- **Docker Foundations Professional Certificate** — Docker (Jan 2026)
+- **AWS Cloud Quest: Cloud Practitioner** — Amazon Web Services (Jan 2026)
+
+---
+
+### 📊 LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shivambprajapati1998?v=1)
-
