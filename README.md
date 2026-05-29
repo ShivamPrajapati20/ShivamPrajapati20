@@ -1,86 +1,144 @@
-## Hi, I'm Shivam Prajapati 👋
+## Hi, I'm Shivam Prajapati
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-Foundations%20Professional-blue?logo=docker)
 ![JPMorgan](https://img.shields.io/badge/JPMorgan%20Chase-SWE%20Simulation-darkblue)
+![Java](https://img.shields.io/badge/Java-Spring%20Boot-red?logo=openjdk)
+![Next.js](https://img.shields.io/badge/Next.js-Full%20Stack-black?logo=nextdotjs)
+![AI](https://img.shields.io/badge/AI-LLM%20Integration-purple)
 
-💻 Software Engineer | Full Stack, AI/LLM Integration & Cloud  
-🎓 M.S. in Computer Science — Cleveland State University (GPA: 3.7/4.0)  
-📍 San Antonio, TX | Open to Relocate
+Software Engineer focused on full-stack development, AI/LLM integrations, cloud systems, and scalable backend architecture.
 
-💼 [LinkedIn](https://www.linkedin.com/in/shivam-prajapati20) | 📧 [shivambprajapati15@gmail.com](mailto:shivambprajapati15@gmail.com) | [GitHub](https://github.com/your-username)
-
----
-
-### 🧠 Skills
-
-**💻 Languages & Frameworks:**  
-Java, Python, JavaScript (ES6+), TypeScript, React.js, Next.js, Spring Boot, Node.js, Express.js, Django, FastAPI, HTML5/CSS3
-
-**🤖 AI & LLMs:**  
-LLM Integration, Prompt Engineering, OpenAI API, Claude API, Gemini API, RAG Pipelines, LangChain, scikit-learn
-
-**🏗️ Architecture:**  
-REST, GraphQL, Microservices, Event-Driven Architecture, System Design, Scalability
-
-**🗄️ Databases & Streaming:**  
-MS SQL Server, MySQL, MongoDB, PostgreSQL, Apache Kafka
-
-**☁️ Cloud & DevOps:**  
-AWS (EC2, S3, IAM), Docker, Kubernetes, Jenkins, Terraform, GitHub Actions, CI/CD Pipelines
-
-**🛠️ Tools:**  
-Git, Postman, Jira, VS Code
+M.S. in Computer Science at Cleveland State University  
+San Antonio, TX | Open to relocate  
+[LinkedIn](https://www.linkedin.com/in/shivam-prajapati20) | [Email](mailto:shivambprajapati15@gmail.com) | [GitHub](https://github.com/ShivamPrajapati20)
 
 ---
 
-### 💼 Experience
+### Technical Skills
 
-**Software Developer Intern – Find Me LLC (New York, USA)**  
-*Aug 2025 – Nov 2025 | Remote*
-- Redesigned React/Next.js architecture for 500+ users and introduced unit testing, reducing production bug reports.
-- Migrated REST APIs to GraphQL (field-level resolvers, depth limiting), cutting payload size by **40%** and improving page load from ~2.4s to ~1.4s.
-- Integrated ML classification models into backend workflows, reducing manual review volume from ~100 to 70 cases/day.
-- Containerized backend services with Docker and deployed on AWS, reducing environment setup time from ~2 days to **2 hours**.
+**Languages & Frameworks:**  
+Java, Python, JavaScript, TypeScript, React.js, Next.js, Spring Boot, Node.js, Express.js, Django, FastAPI, HTML, CSS
 
-**Software Developer – iSummation Technologies Pvt. Ltd. (India)**  
-*Sep 2019 – Jul 2023*
-- Led full-stack platform (React.js, Next.js, Spring Boot) serving **50K+ users** at **99.8% uptime**.
-- Standardized APIs across 10+ microservices, cutting integration time from 5 days to 2 days and reducing production issues from ~12/month to 7/month.
-- Optimized MS SQL Server queries (indexing + N+1 fixes), reducing response latency from **~900ms to 600ms**.
-- Architected extensible backend data-pipeline interfaces enabling AI/ML model onboarding in under 2 weeks with zero refactoring.
-- Mentored 2 junior engineers, reducing their PR defect rate by **40%** in Q1.
+**AI & LLMs:**  
+Claude API, OpenAI API, Gemini API, prompt engineering, LLM workflows, RAG pipelines, LangChain, scikit-learn
 
-**Software Developer Intern – Silverwing Technologies Pvt. Ltd. (India)**  
-*Dec 2018 – Mar 2019*
-- Replaced synchronous billing with a Kafka + Spring Boot event-driven pipeline sustaining **10,000+ events/min** with zero message loss.
-- Automated payment workflows via Spring Boot REST APIs, cutting manual processing effort by **40%**.
+**Backend & Architecture:**  
+REST APIs, GraphQL, microservices, event-driven architecture, system design, scalability, authentication, SSO
+
+**Databases & Streaming:**  
+PostgreSQL, MS SQL Server, MySQL, MongoDB, Apache Kafka
+
+**Cloud & DevOps:**  
+AWS, Docker, Kubernetes, Jenkins, Terraform, GitHub Actions, CI/CD
+
+**Tools:**  
+Git, Postman, Jira, VS Code, Maven, npm
 
 ---
 
-### 🚀 Projects
+### Featured Project
 
-**🔍 AI Resume Analyzer** — *Python, FastAPI, Next.js, Prompt Engineering* (Apr 2026)  
-Built a 3-call RAG pipeline that parses job descriptions, scores resume match (0–100), and rewrites bullet points using JD keywords — reducing tailoring time from ~2 hrs to ~15 seconds.
+#### GitHub PR Reviewer
 
-**🤖 AI Integration Projects** — *OpenAI API, Claude API, Gemini API* (Mar 2026)  
-Engineered multi-model AI integrations with prompt-chaining workflows and context-aware LLM pipelines. Applied few-shot, chain-of-thought, and system-role prompting for classification and generation tasks.
+AI-powered pull request review platform that helps developers review open GitHub PRs faster with structured AI feedback.
 
-**🔐 Auth / SSO Service** — *Java, Spring Boot, Spring Security, PostgreSQL* (Jan 2026)  
-Architected production-grade multi-tenant SSO with RBAC, JWT refresh-token rotation, and full audit logging — zero token replay vulnerabilities across all environments.
+**Tech Stack:** Java, Spring Boot, Next.js, TypeScript, PostgreSQL, GitHub OAuth, GitHub REST API, Claude API
 
-**📈 AI Stock Market Prediction System** — *Python, SVM, Quantum Kernels, PCA, scikit-learn* (Apr 2025)  
-Delivered SVM + quantum kernel hybrid model with **18% accuracy improvement** over SOTA baselines, validated via k-fold cross-validation on time-series financial data.
+**What it does:**
+
+- Lets users sign in with GitHub
+- Automatically uses the authenticated GitHub owner
+- Reviews only open pull requests
+- Rejects closed and merged PRs
+- Fetches PR details and changed files from GitHub
+- Sends code patches to Claude for analysis
+- Stores reviews and comments in PostgreSQL
+- Groups findings by severity: critical, warning, suggestion
+- Shows file name, line number, issue, category, and suggested fix
+- Supports cached review results and force refresh
+- Uses idle session expiration for authentication
+
+**Repository:** [ai-code-reviewer](https://github.com/ShivamPrajapati20/ai-code-reviewer)
 
 ---
 
-### ☁️ Certifications
+### Other Projects
 
-- **JPMorgan Chase Software Engineering Job Simulation** — Forage (Jan 2026)
-- **Docker Foundations Professional Certificate** — Docker (Jan 2026)
-- **AWS Cloud Quest: Cloud Practitioner** — Amazon Web Services (Jan 2026)
+#### AI Resume Analyzer
+
+Python, FastAPI, Next.js, Prompt Engineering
+
+Built a resume analysis system that parses job descriptions, scores resume match, and rewrites resume bullet points using job-specific keywords.
+
+#### AI Integration Projects
+
+OpenAI API, Claude API, Gemini API
+
+Built multi-model AI workflows using prompt chaining, context-aware prompting, and structured output generation.
+
+#### Auth / SSO Service
+
+Java, Spring Boot, Spring Security, PostgreSQL
+
+Designed a multi-tenant authentication service with role-based access control, JWT refresh-token rotation, and audit logging.
+
+#### AI Stock Market Prediction System
+
+Python, SVM, Quantum Kernels, PCA, scikit-learn
+
+Built a hybrid ML model for financial time-series prediction and validated performance using cross-validation.
 
 ---
 
-### 📊 LeetCode
+### Experience
+
+#### Software Developer Intern - Find Me LLC
+
+Aug 2025 - Nov 2025 | Remote
+
+- Redesigned React/Next.js architecture for 500+ users.
+- Migrated REST APIs to GraphQL, reducing payload size by 40%.
+- Integrated ML classification models into backend workflows.
+- Containerized backend services with Docker and deployed on AWS.
+
+#### Software Developer - iSummation Technologies Pvt. Ltd.
+
+Sep 2019 - Jul 2023
+
+- Built and maintained full-stack platforms with React.js, Next.js, and Spring Boot.
+- Standardized APIs across microservices and reduced integration time.
+- Optimized MS SQL Server queries and improved response latency.
+- Designed extensible backend data-pipeline interfaces for AI/ML workflows.
+- Mentored junior developers and improved PR quality.
+
+#### Software Developer Intern - Silverwing Technologies Pvt. Ltd.
+
+Dec 2018 - Mar 2019
+
+- Built Kafka and Spring Boot event-driven billing workflows.
+- Automated payment processing with REST APIs.
+
+---
+
+### Certifications
+
+- JPMorgan Chase Software Engineering Job Simulation - Forage
+- Docker Foundations Professional Certificate - Docker
+- AWS Cloud Quest: Cloud Practitioner - Amazon Web Services
+
+---
+
+### LeetCode
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shivambprajapati1998?v=1)
+
+---
+
+### Currently Exploring
+
+- Production-ready AI agents
+- Secure authentication systems
+- GitHub automation
+- Scalable cloud-native backend systems
+- Better developer tooling with LLMs
